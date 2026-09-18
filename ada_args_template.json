@@ -1,5 +1,5 @@
 {
-"type": "CDLNet",
+"type": "AdaCDLNet_Full",
 "model": {
 	"adaptive": true,
 	"K": 20,
