@@ -5,7 +5,8 @@ from pprint import pprint
 import numpy as np
 import torch
 import torch.nn as nn
-from model.net import CDLNet, GDLNet, DnCNN, FFDNet
+from model import CDLNet, GDLNet
+from model.net import DnCNN, FFDNet
 from data import get_fit_loaders
 from utils import awgn, gen_bayer_mask
 
