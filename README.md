@@ -9,3 +9,7 @@ from Ada-LISTA. The proposed model is evaluated through image denoising and
 dictionary adaptation experiments.
 
 [Read the paper](./papers/senior_thesis.pdf)
+
+## Acknowledgment
+
+This codebase was adapted from [CDLNet-OJSP](https://github.com/nikopj/CDLNet-OJSP) by Nikola Janjušević and collaborators. The Adaptive-CDLNet implementation and experiments were developed for my senior thesis.
